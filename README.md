@@ -2,7 +2,7 @@
 
 Application clone from CGV on appstore
 
-<img src="Screenshots/screenshot_1.png" width="282" height="609">&nbsp;&nbsp; <img src="Screenshots/screenshot_2.PNG" width="282" height="609">&nbsp;&nbsp; <img src="Screenshots/screenshot_3.PNG" width="282" height="609">
+<img src="Screenshots/screenshot_1.png" width="282" height="609">&nbsp; <img src="Screenshots/screenshot_2.PNG" width="282" height="609">&nbsp; <img src="Screenshots/screenshot_3.PNG" width="282" height="609">
 
 
 ## Requirements
