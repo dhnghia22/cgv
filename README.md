@@ -8,6 +8,7 @@ Application clone from CGV on appstore
 ## Requirements
 
 - Runs on iOS 10.0 and later
+- Xcode 10.2
 - Swift 5.0  and ARC.
 
 ## Installation
