@@ -2,7 +2,7 @@
 
 Application clone from CGV on appstore
 
-<img src="Screenshots/screenshoot_1.png" width="563" height="1218">
+<img src="Screenshots/screenshoot_1.png" width="282" height="609">
 
 ## Requirements
 
@@ -25,4 +25,8 @@ pod install
 
 - https://github.com/sergdort/CleanArchitectureRxSwift
 - http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+
+## Contact
+
+If you have any question about this project, please contact me via email: dhnghia22@gmail.com
 
