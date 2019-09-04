@@ -1,0 +1,1589 @@
+{
+    "data": [
+        {
+            "date": "2019-09-02",
+            "locations": [
+                {
+                    "name": "Hồ Chí Minh",
+                    "cinemas": [
+                        {
+                            "id": "004",
+                            "name": "CGV Hùng Vương Plaza",
+                            "latitude": "10.755784",
+                            "longitude": "106.663200",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3784315,
+                                            "cinema_id": "004",
+                                            "time": "22:00",
+                                            "room": "Cinema 9",
+                                            "theater": "CGV Hùng Vương Plaza",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 121,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022200",
+                                            "showing_type": "05"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "008",
+                            "name": "CGV Crescent Mall",
+                            "latitude": "10.729070",
+                            "longitude": "106.718948",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3780384,
+                                            "cinema_id": "008",
+                                            "time": "22:25",
+                                            "room": "Cinema 3",
+                                            "theater": "CGV Crescent Mall",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 142,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022225",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "010",
+                            "name": "CGV Pandora City",
+                            "latitude": "10.806450",
+                            "longitude": "106.634552",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3748892,
+                                            "cinema_id": "010",
+                                            "time": "22:05",
+                                            "room": "Cinema 7",
+                                            "theater": "CGV Pandora City",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 128,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022205",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "012",
+                            "name": "CGV Aeon Tân Phú",
+                            "latitude": "10.801702",
+                            "longitude": "106.617973",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3747390,
+                                            "cinema_id": "012",
+                                            "time": "21:40",
+                                            "room": "Cinema 2",
+                                            "theater": "CGV Aeon Tân Phú",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 184,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022140",
+                                            "showing_type": "05"
+                                        },
+                                        {
+                                            "id": 3747397,
+                                            "cinema_id": "012",
+                                            "time": "22:20",
+                                            "room": "Cinema 3",
+                                            "theater": "CGV Aeon Tân Phú",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 133,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022220",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "021",
+                            "name": "CGV Thảo Điền Pearl",
+                            "latitude": "10.801776",
+                            "longitude": "106.732803",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3743704,
+                                            "cinema_id": "021",
+                                            "time": "22:20",
+                                            "room": "Cinema 4",
+                                            "theater": "CGV Thảo Điền Pearl",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 100,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022220",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "023",
+                            "name": "CGV Vincom Thủ Đức",
+                            "latitude": "10.850593",
+                            "longitude": "106.765488",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3752816,
+                                            "cinema_id": "023",
+                                            "time": "22:15",
+                                            "room": "Cinema 7",
+                                            "theater": "CGV Vincom Thủ Đức",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 239,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022215",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "024",
+                            "name": "CGV Vivo City",
+                            "latitude": "10.730201",
+                            "longitude": "106.703836",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3733030,
+                                            "cinema_id": "024",
+                                            "time": "22:10",
+                                            "room": "Cinema 6",
+                                            "theater": "CGV Vivo City",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 188,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022210",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "030",
+                            "name": "CGV Pearl Plaza",
+                            "latitude": "10.799865",
+                            "longitude": "106.718460",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3783655,
+                                            "cinema_id": "030",
+                                            "time": "21:50",
+                                            "room": "Cinema  1",
+                                            "theater": "CGV Pearl Plaza",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 68,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022150",
+                                            "showing_type": "05"
+                                        },
+                                        {
+                                            "id": 3739069,
+                                            "cinema_id": "030",
+                                            "time": "22:30",
+                                            "room": "Cinema 4",
+                                            "theater": "CGV Pearl Plaza",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 98,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022230",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "031",
+                            "name": "CGV Vincom Gò Vấp",
+                            "latitude": "10.826833",
+                            "longitude": "106.689079",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3781050,
+                                            "cinema_id": "031",
+                                            "time": "22:20",
+                                            "room": "Cinema 3",
+                                            "theater": "CGV Vincom Gò Vấp",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 199,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022220",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "033",
+                            "name": "CGV Hoàng Văn Thụ",
+                            "latitude": "10.799018",
+                            "longitude": "106.659668",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3750089,
+                                            "cinema_id": "033",
+                                            "time": "22:10",
+                                            "room": "Cinema 6",
+                                            "theater": "CGV Hoàng Văn Thụ",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 270,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022210",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "034",
+                            "name": "CGV Aeon Bình Tân",
+                            "latitude": "10.746188",
+                            "longitude": "106.611420",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3780626,
+                                            "cinema_id": "034",
+                                            "time": "22:10",
+                                            "room": "Cinema 1",
+                                            "theater": "CGV Aeon Bình Tân",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 162,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022210",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "035",
+                            "name": "CGV Vincom Đồng Khởi",
+                            "latitude": "10.777917",
+                            "longitude": "106.702164",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3739818,
+                                            "cinema_id": "035",
+                                            "time": "23:15",
+                                            "room": "Cinema 6",
+                                            "theater": "CGV Vincom Đồng Khởi",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 64,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022315",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "057",
+                            "name": "CGV Sư Vạn Hạnh",
+                            "latitude": "10.770459",
+                            "longitude": "106.670389",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3750234,
+                                            "cinema_id": "057",
+                                            "time": "22:05",
+                                            "room": "Cinema 3",
+                                            "theater": "CGV Sư Vạn Hạnh",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 279,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022205",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "059",
+                            "name": "CGV IMC Trần Quang Khải",
+                            "latitude": "10.792495",
+                            "longitude": "106.693914",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3776161,
+                                            "cinema_id": "059",
+                                            "time": "22:40",
+                                            "room": "Cinema 4",
+                                            "theater": "CGV IMC Trần Quang Khải",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 55,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022240",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "071",
+                            "name": "CGV Vincom Center Landmark 81",
+                            "latitude": "10.795896",
+                            "longitude": "106.722455",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3785451,
+                                            "cinema_id": "071",
+                                            "time": "23:10",
+                                            "room": "Cinema 7",
+                                            "theater": "CGV Vincom Center Landmark 81",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 131,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022310",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "079",
+                            "name": "CGV Giga Mall Thủ Đức",
+                            "latitude": "10.828581",
+                            "longitude": "106.722314",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3740154,
+                                            "cinema_id": "079",
+                                            "time": "22:10",
+                                            "room": "Cinema 5",
+                                            "theater": "CGV Giga Mall Thủ Đức",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 146,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022210",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bình Dương",
+                    "cinemas": [
+                        {
+                            "id": "016",
+                            "name": "CGV Bình Dương Square",
+                            "latitude": "10.984906",
+                            "longitude": "106.667442",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3742173,
+                                            "cinema_id": "016",
+                                            "time": "22:00",
+                                            "room": "Cinema 3",
+                                            "theater": "CGV Bình Dương Square",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 86,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022200",
+                                            "showing_type": "05"
+                                        },
+                                        {
+                                            "id": 3742166,
+                                            "cinema_id": "016",
+                                            "time": "22:30",
+                                            "room": "Cinema 2",
+                                            "theater": "CGV Bình Dương Square",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 177,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022230",
+                                            "showing_type": "05"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "017",
+                            "name": "CGV Aeon Canary",
+                            "latitude": "10.931771",
+                            "longitude": "106.712265",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3743190,
+                                            "cinema_id": "017",
+                                            "time": "21:40",
+                                            "room": "Cinema 6",
+                                            "theater": "CGV Aeon Canary",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 155,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022140",
+                                            "showing_type": "05"
+                                        },
+                                        {
+                                            "id": 3743198,
+                                            "cinema_id": "017",
+                                            "time": "22:10",
+                                            "room": "Cinema 3",
+                                            "theater": "CGV Aeon Canary",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 158,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022210",
+                                            "showing_type": "05"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Hà Nội",
+                    "cinemas": [
+                        {
+                            "id": "001",
+                            "name": "CGV Vincom Center Bà Triệu",
+                            "latitude": "21.011444",
+                            "longitude": "105.849434",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3757594,
+                                            "cinema_id": "001",
+                                            "time": "21:55",
+                                            "room": "Cinema 4",
+                                            "theater": "CGV Vincom Center Bà Triệu",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 98,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022155",
+                                            "showing_type": "05"
+                                        },
+                                        {
+                                            "id": 3757596,
+                                            "cinema_id": "001",
+                                            "time": "22:25",
+                                            "room": "Cinema 1",
+                                            "theater": "CGV Vincom Center Bà Triệu",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 233,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022225",
+                                            "showing_type": "06"
+                                        },
+                                        {
+                                            "id": 3768134,
+                                            "cinema_id": "001",
+                                            "time": "23:35",
+                                            "room": "Cinema 7",
+                                            "theater": "CGV Vincom Center Bà Triệu",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 102,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022335",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "009",
+                            "name": "CGV Mipec Tower",
+                            "latitude": "21.005665",
+                            "longitude": "105.823654",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub | Dolby Atmos Cinema",
+                                    "name_color": "",
+                                    "code": "2D English Sub | Dolby Atmos Cinema",
+                                    "sessions": [
+                                        {
+                                            "id": 3741642,
+                                            "cinema_id": "009",
+                                            "time": "22:45",
+                                            "room": "Cinema 2",
+                                            "theater": "CGV Mipec Tower",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 328,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022245",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "018",
+                            "name": "CGV Hồ Gươm Plaza",
+                            "latitude": "20.979177",
+                            "longitude": "105.785980",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3776208,
+                                            "cinema_id": "018",
+                                            "time": "22:40",
+                                            "room": "Cinema 2",
+                                            "theater": "CGV Hồ Gươm Plaza",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 89,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022240",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "2D English Sub | ART HOUSE Cinema",
+                                    "name_color": "",
+                                    "code": "2D English Sub | ART HOUSE Cinema",
+                                    "sessions": [
+                                        {
+                                            "id": 3736789,
+                                            "cinema_id": "018",
+                                            "time": "22:00",
+                                            "room": "Cinema 5",
+                                            "theater": "CGV Hồ Gươm Plaza",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 116,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022200",
+                                            "showing_type": "05"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "027",
+                            "name": "CGV Aeon Long Biên",
+                            "latitude": "21.026997",
+                            "longitude": "105.898460",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3731149,
+                                            "cinema_id": "027",
+                                            "time": "23:20",
+                                            "room": "Cinema 2",
+                                            "theater": "CGV Aeon Long Biên",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 118,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022320",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "2D English Sub | SCREENX Cinema",
+                                    "name_color": "",
+                                    "code": "2D English Sub | SCREENX Cinema",
+                                    "sessions": [
+                                        {
+                                            "id": 3731161,
+                                            "cinema_id": "027",
+                                            "time": "22:15",
+                                            "room": "Cinema 5",
+                                            "theater": "CGV Aeon Long Biên",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 238,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022215",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "028",
+                            "name": "CGV Vincom Nguyễn Chí Thanh",
+                            "latitude": "21.023582",
+                            "longitude": "105.809113",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3784487,
+                                            "cinema_id": "028",
+                                            "time": "23:55",
+                                            "room": "Cinema 7",
+                                            "theater": "CGV Vincom Nguyễn Chí Thanh",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 82,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022355",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "2D English Sub | Yamaha Why Not",
+                                    "name_color": "FF0000",
+                                    "code": "2D English Sub | Yamaha Why Not",
+                                    "sessions": [
+                                        {
+                                            "id": 3757136,
+                                            "cinema_id": "028",
+                                            "time": "22:30",
+                                            "room": "Yamaha Why Not",
+                                            "theater": "CGV Vincom Nguyễn Chí Thanh",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 104,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022230",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "032",
+                            "name": "CGV Indochina Plaza Hà Nội",
+                            "latitude": "21.036337",
+                            "longitude": "105.782455",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3758253,
+                                            "cinema_id": "032",
+                                            "time": "22:20",
+                                            "room": "Cinema 4",
+                                            "theater": "CGV Indochina Plaza Hà Nội",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 73,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022220",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "037",
+                            "name": "CGV Rice City",
+                            "latitude": "20.963413",
+                            "longitude": "105.823013",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3777931,
+                                            "cinema_id": "037",
+                                            "time": "21:45",
+                                            "room": "Cinema 4",
+                                            "theater": "CGV Rice City",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 88,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022145",
+                                            "showing_type": "05"
+                                        },
+                                        {
+                                            "id": 3772319,
+                                            "cinema_id": "037",
+                                            "time": "22:25",
+                                            "room": "Cinema 1",
+                                            "theater": "CGV Rice City",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 162,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022225",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "041",
+                            "name": "CGV Artemis Hà Nội",
+                            "latitude": "20.999401",
+                            "longitude": "105.827148",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3737475,
+                                            "cinema_id": "041",
+                                            "time": "22:05",
+                                            "room": "CINEMA 04",
+                                            "theater": "CGV Artemis Hà Nội",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 176,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022205",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "048",
+                            "name": "CGV Tràng Tiền Plaza",
+                            "latitude": "21.024541",
+                            "longitude": "105.853330",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3784910,
+                                            "cinema_id": "048",
+                                            "time": "23:00",
+                                            "room": "CInema 4",
+                                            "theater": "CGV Tràng Tiền Plaza",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 32,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022300",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "053",
+                            "name": "CGV Trương Định Plaza",
+                            "latitude": "20.98427",
+                            "longitude": "105.846256",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3782397,
+                                            "cinema_id": "053",
+                                            "time": "23:20",
+                                            "room": "Cinema 4",
+                                            "theater": "CGV Trương Định Plaza",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 120,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022320",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "054",
+                            "name": "CGV Vincom Royal City",
+                            "latitude": "21.002994",
+                            "longitude": "105.815494",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3733256,
+                                            "cinema_id": "054",
+                                            "time": "23:40",
+                                            "room": "Cinema 1",
+                                            "theater": "CGV Vincom Royal City",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 260,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022340",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "2D English Sub | Lamour Cinema",
+                                    "name_color": "",
+                                    "code": "2D English Sub | Lamour Cinema",
+                                    "sessions": [
+                                        {
+                                            "id": 3733266,
+                                            "cinema_id": "054",
+                                            "time": "22:50",
+                                            "room": "L'AMOUR",
+                                            "theater": "CGV Vincom Royal City",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 20,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022250",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "2D English Sub | Dolby Atmos Cinema",
+                                    "name_color": "",
+                                    "code": "2D English Sub | Dolby Atmos Cinema",
+                                    "sessions": [
+                                        {
+                                            "id": 3733280,
+                                            "cinema_id": "054",
+                                            "time": "22:20",
+                                            "room": "Cinema 4",
+                                            "theater": "CGV Vincom Royal City",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 255,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022220",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "055",
+                            "name": "CGV Vincom Times City ",
+                            "latitude": "20.994844",
+                            "longitude": "105.868496",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub | Dolby Atmos Cinema",
+                                    "name_color": "",
+                                    "code": "2D English Sub | Dolby Atmos Cinema",
+                                    "sessions": [
+                                        {
+                                            "id": 3734477,
+                                            "cinema_id": "055",
+                                            "time": "22:35",
+                                            "room": "Cinema 1",
+                                            "theater": "CGV Vincom Times City ",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 321,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022235",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "060",
+                            "name": "CGV Machinco",
+                            "latitude": "20.983379",
+                            "longitude": "105.7893273",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3756383,
+                                            "cinema_id": "060",
+                                            "time": "22:15",
+                                            "room": "Cinema 4",
+                                            "theater": "CGV Machinco",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 173,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022215",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "064",
+                            "name": "CGV Sun Grand Lương Yên ",
+                            "latitude": "21.012121",
+                            "longitude": "105.862744",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3734831,
+                                            "cinema_id": "064",
+                                            "time": "22:05",
+                                            "room": "Cinema 7",
+                                            "theater": "CGV Sun Grand Lương Yên ",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 83,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022205",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "070",
+                            "name": "CGV Vincom Metropolis Liễu Giai ",
+                            "latitude": "21.031447",
+                            "longitude": "105.814010",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3775883,
+                                            "cinema_id": "070",
+                                            "time": "22:35",
+                                            "room": "Cinema 6",
+                                            "theater": "CGV Vincom Metropolis Liễu Giai ",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 95,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022235",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "080",
+                            "name": "CGV Xuân Diệu",
+                            "latitude": "21.065276",
+                            "longitude": "105.827352",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3744332,
+                                            "cinema_id": "080",
+                                            "time": "22:45",
+                                            "room": "Cinema 6",
+                                            "theater": "CGV Xuân Diệu",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 86,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022245",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "082",
+                            "name": "CGV Vincom Sky Lake",
+                            "latitude": "21.028971",
+                            "longitude": "105.779476",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3755909,
+                                            "cinema_id": "082",
+                                            "time": "22:20",
+                                            "room": "Cinema 1",
+                                            "theater": "CGV Vincom Sky Lake",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 113,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022220",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "083",
+                            "name": "CGV Vincom Trần Duy Hưng",
+                            "latitude": "21.016357",
+                            "longitude": "105.805482",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3761013,
+                                            "cinema_id": "083",
+                                            "time": "22:15",
+                                            "room": "Cinema 5",
+                                            "theater": "CGV Vincom Trần Duy Hưng",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 62,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022215",
+                                            "showing_type": "06"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Đồng Nai",
+                    "cinemas": [
+                        {
+                            "id": "019",
+                            "name": "CGV Big C Đồng Nai",
+                            "latitude": "10.906649",
+                            "longitude": "106.850845",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3742986,
+                                            "cinema_id": "019",
+                                            "time": "21:50",
+                                            "room": "Cinema 4",
+                                            "theater": "CGV Big C Đồng Nai",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 199,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022150",
+                                            "showing_type": "05"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Đà Nẵng",
+                    "cinemas": [
+                        {
+                            "id": "005",
+                            "name": "CGV Vĩnh Trung Plaza",
+                            "latitude": "16.066572",
+                            "longitude": "108.212975",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3752444,
+                                            "cinema_id": "005",
+                                            "time": "22:00",
+                                            "room": "Cinema 6",
+                                            "theater": "CGV Vĩnh Trung Plaza",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 178,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022200",
+                                            "showing_type": "05"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "025",
+                            "name": "CGV Vincom Đà Nẵng",
+                            "latitude": "16.070311",
+                            "longitude": "108.229752",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3753905,
+                                            "cinema_id": "025",
+                                            "time": "21:50",
+                                            "room": "Cinema 4",
+                                            "theater": "CGV Vincom Đà Nẵng",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 215,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022150",
+                                            "showing_type": "05"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cần Thơ",
+                    "cinemas": [
+                        {
+                            "id": "013",
+                            "name": "CGV Sense City",
+                            "latitude": "10.034108",
+                            "longitude": "105.785973",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3752212,
+                                            "cinema_id": "013",
+                                            "time": "21:50",
+                                            "room": "Cinema 5",
+                                            "theater": "CGV Sense City",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 156,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022150",
+                                            "showing_type": "05"
+                                        },
+                                        {
+                                            "id": 3752187,
+                                            "cinema_id": "013",
+                                            "time": "22:30",
+                                            "room": "Cinema 1",
+                                            "theater": "CGV Sense City",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 125,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022230",
+                                            "showing_type": "05"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "036",
+                            "name": "CGV Vincom Xuân Khánh",
+                            "latitude": "10.025324",
+                            "longitude": "105.775467",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3779717,
+                                            "cinema_id": "036",
+                                            "time": "22:20",
+                                            "room": "Cinema 2",
+                                            "theater": "CGV Vincom Xuân Khánh",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 119,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022220",
+                                            "showing_type": "05"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Hà Tĩnh",
+                    "cinemas": [
+                        {
+                            "id": "047",
+                            "name": "CGV Vincom Hà Tĩnh",
+                            "latitude": "18.337337",
+                            "longitude": "105.895598",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3759398,
+                                            "cinema_id": "047",
+                                            "time": "22:00",
+                                            "room": "Cinema 4",
+                                            "theater": "CGV Vincom Hà Tĩnh",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 126,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022200",
+                                            "showing_type": "05"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Phú Thọ",
+                    "cinemas": [
+                        {
+                            "id": "078",
+                            "name": "CGV Happyland Việt Trì",
+                            "latitude": "21.320676",
+                            "longitude": "105.385006",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3753057,
+                                            "cinema_id": "078",
+                                            "time": "22:10",
+                                            "room": "Cinema 1",
+                                            "theater": "CGV Happyland Việt Trì",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 200,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022210",
+                                            "showing_type": "05"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nghệ An",
+                    "cinemas": [
+                        {
+                            "id": "086",
+                            "name": "CGV Vinh Centre",
+                            "latitude": "18.672515",
+                            "longitude": "105.691100",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3757006,
+                                            "cinema_id": "086",
+                                            "time": "22:10",
+                                            "room": "Cinema 4",
+                                            "theater": "CGV Vinh Centre",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 114,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022210",
+                                            "showing_type": "05"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Hải Phòng",
+                    "cinemas": [
+                        {
+                            "id": "077",
+                            "name": "CGV Vincom Hải Phòng",
+                            "latitude": "20.862944",
+                            "longitude": "106.662123",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3783038,
+                                            "cinema_id": "077",
+                                            "time": "22:15",
+                                            "room": "Cinema 3",
+                                            "theater": "CGV Vincom Hải Phòng",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 102,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022215",
+                                            "showing_type": "05"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Sơn La",
+                    "cinemas": [
+                        {
+                            "id": "062",
+                            "name": "CGV Vincom Sơn La",
+                            "latitude": "21.322904",
+                            "longitude": "103.917351",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3781020,
+                                            "cinema_id": "062",
+                                            "time": "22:20",
+                                            "room": "Cinema 3",
+                                            "theater": "CGV Vincom Sơn La",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 126,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022220",
+                                            "showing_type": "05"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Thái Nguyên",
+                    "cinemas": [
+                        {
+                            "id": "061",
+                            "name": "CGV Vincom Thái Nguyên",
+                            "latitude": "21.591196",
+                            "longitude": "105.826066",
+                            "languages": [
+                                {
+                                    "name": "2D English Sub",
+                                    "name_color": "",
+                                    "code": "2D English Sub",
+                                    "sessions": [
+                                        {
+                                            "id": 3779851,
+                                            "cinema_id": "061",
+                                            "time": "22:20",
+                                            "room": "Cinema 1",
+                                            "theater": "CGV Vincom Thái Nguyên",
+                                            "is_booking": true,
+                                            "code": "2D",
+                                            "remaining_seats": 152,
+                                            "sub_type": "2D English Sub",
+                                            "showing_date_time": "201909022220",
+                                            "showing_type": "05"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

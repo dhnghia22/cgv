@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="LocationCollectionViewCell" customModule="CGVDemo" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="334" height="73"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="334" height="73"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="751" verticalCompressionResistancePriority="751" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oV2-hg-AYD">
+                        <rect key="frame" x="8" y="41.5" width="314" height="0.0"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.51372549019607838" green="0.45098039215686275" blue="0.39215686274509803" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="252" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Dve-aL-9zg">
+                        <rect key="frame" x="330" y="41.5" width="0.0" height="0.0"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.68235294117647061" green="0.17254901960784313" blue="0.19607843137254902" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <color key="backgroundColor" red="0.99986511468887329" green="1" blue="0.99568647146224976" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="oV2-hg-AYD" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="8" id="AMG-bd-frs"/>
+                <constraint firstAttribute="trailing" secondItem="Dve-aL-9zg" secondAttribute="trailing" constant="4" id="Skx-yr-mo0"/>
+                <constraint firstItem="Dve-aL-9zg" firstAttribute="centerY" secondItem="ZTg-uK-7eu" secondAttribute="centerY" id="UM9-iL-jZX"/>
+                <constraint firstItem="oV2-hg-AYD" firstAttribute="centerY" secondItem="ZTg-uK-7eu" secondAttribute="centerY" id="cyn-RL-OUC"/>
+                <constraint firstItem="Dve-aL-9zg" firstAttribute="leading" secondItem="oV2-hg-AYD" secondAttribute="trailing" constant="8" id="hZF-1C-Uqp"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="334" height="73"/>
+            <connections>
+                <outlet property="distanceLabel" destination="Dve-aL-9zg" id="Hbk-VD-n2D"/>
+                <outlet property="nameCinemaLabel" destination="oV2-hg-AYD" id="cGI-Vw-64R"/>
+            </connections>
+            <point key="canvasLocation" x="-68.115942028985515" y="62.611607142857139"/>
+        </collectionViewCell>
+    </objects>
+</document>

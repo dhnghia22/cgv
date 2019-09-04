@@ -1,0 +1,41 @@
+
+{
+    "data": [
+        {
+            "type": "movie",
+            
+            "id": "2022",
+            "image": "https://www.cgv.vn/media/banner/cache/3/b58515f018eb873dafa430b6f9ae0c1e/e/x/exit-49k-980x448_1.jpg"
+        },
+        {
+            "type": "movie",
+            
+            "id": "2126",
+            "image": "https://www.cgv.vn/media/banner/cache/3/b58515f018eb873dafa430b6f9ae0c1e/i/t/it-2_resize_web_980x448_1.jpg"
+        },
+        {
+            "type": "blog",
+            
+            "id": "2954",
+            "image": "https://www.cgv.vn/media/banner/cache/3/b58515f018eb873dafa430b6f9ae0c1e/n/a/nang-mua-grab-cgv_980x448_1.jpg"
+        },
+        {
+            "type": "blog",
+            
+            "id": "2978",
+            "image": "https://www.cgv.vn/media/banner/cache/3/b58515f018eb873dafa430b6f9ae0c1e/z/a/zalopayxcgv-79k-980x448_1.jpg"
+        },
+        {
+            "type": "blog",
+            
+            "id": "3014",
+            "image": "https://www.cgv.vn/media/banner/cache/3/b58515f018eb873dafa430b6f9ae0c1e/9/8/980x488-9k-cgv_1.jpg"
+        },
+        {
+            "type": "blog",
+            
+            "id": "3018",
+            "image": "https://www.cgv.vn/media/banner/cache/3/b58515f018eb873dafa430b6f9ae0c1e/t/o/toppokkii_doan_vien_980x448_1.jpg"
+        }
+    ]
+}

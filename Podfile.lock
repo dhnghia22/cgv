@@ -1,0 +1,133 @@
+PODS:
+  - AFDateHelper (4.3.0)
+  - Alamofire (4.8.2)
+  - Differentiator (4.0.1)
+  - FSCalendar (2.8.0)
+  - FSPagerView (0.8.3)
+  - KIF (3.7.8):
+    - KIF/Core (= 3.7.8)
+  - KIF/Core (3.7.8)
+  - MBProgressHUD (1.1.0)
+  - Mockingjay (3.0.0-alpha.1):
+    - Mockingjay/Core (= 3.0.0-alpha.1)
+    - Mockingjay/XCTest (= 3.0.0-alpha.1)
+  - Mockingjay/Core (3.0.0-alpha.1):
+    - URITemplate (~> 3.0)
+  - Mockingjay/XCTest (3.0.0-alpha.1):
+    - Mockingjay/Core
+  - "NSObject+Rx (5.0.0)":
+    - RxSwift (~> 5.0)
+  - Reusable (4.1.0):
+    - Reusable/Storyboard (= 4.1.0)
+    - Reusable/View (= 4.1.0)
+  - Reusable/Storyboard (4.1.0)
+  - Reusable/View (4.1.0)
+  - RxAlamofire (5.0.0):
+    - RxAlamofire/Core (= 5.0.0)
+  - RxAlamofire/Core (5.0.0):
+    - Alamofire (~> 4.8)
+    - RxSwift (~> 5.0)
+  - RxBlocking (5.0.0):
+    - RxSwift (~> 5)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxCoreLocation (1.4.0):
+    - RxCoreLocation/Core (= 1.4.0)
+  - RxCoreLocation/Core (1.4.0):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.0.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - RxSwiftExt (5.0.0):
+    - RxSwiftExt/Core (= 5.0.0)
+    - RxSwiftExt/RxCocoa (= 5.0.0)
+  - RxSwiftExt/Core (5.0.0):
+    - RxSwift (~> 5.0)
+  - RxSwiftExt/RxCocoa (5.0.0):
+    - RxCocoa (~> 5.0)
+    - RxSwiftExt/Core
+  - SDWebImage (5.1.0):
+    - SDWebImage/Core (= 5.1.0)
+  - SDWebImage/Core (5.1.0)
+  - Then (2.5.0)
+  - URITemplate (3.0.0)
+  - XCDYouTubeKit (2.8.0)
+
+DEPENDENCIES:
+  - AFDateHelper
+  - FSCalendar
+  - FSPagerView
+  - KIF
+  - MBProgressHUD
+  - Mockingjay (~> 3.0.0-alpha.1)
+  - "NSObject+Rx"
+  - Reusable
+  - RxAlamofire
+  - RxBlocking
+  - RxCocoa
+  - RxCoreLocation
+  - RxDataSources
+  - RxSwift
+  - RxSwiftExt
+  - SDWebImage
+  - Then
+  - XCDYouTubeKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFDateHelper
+    - Alamofire
+    - Differentiator
+    - FSCalendar
+    - FSPagerView
+    - KIF
+    - MBProgressHUD
+    - Mockingjay
+    - "NSObject+Rx"
+    - Reusable
+    - RxAlamofire
+    - RxBlocking
+    - RxCocoa
+    - RxCoreLocation
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+    - RxSwiftExt
+    - SDWebImage
+    - Then
+    - URITemplate
+    - XCDYouTubeKit
+
+SPEC CHECKSUMS:
+  AFDateHelper: b769c07d3d4784ee9a74633285304261bb27dc52
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  FSCalendar: 3a5ed3636e2ba1b83ebebfcf0c2603105a6f5efe
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  KIF: 52e1af1a78cf6fe4ec6777b14776f3dd2eccc32e
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  Mockingjay: 0f7c5aa49c7f1b95621cee3c79b557141f5a225c
+  "NSObject+Rx": 6151a97d171f7187c4183746acc42d9451952a7b
+  Reusable: 82be188f29d96dc5eff0db7b2393bcc08d2cdd5b
+  RxAlamofire: e7875a012aff55345672d0f70a2a9cd6aeb0f211
+  RxBlocking: c67185d26498ea3cbe3e121917c3c16739e43123
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxCoreLocation: ac3a3d97dc5f4e779058f43c9327534f1e3fb95a
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxRelay: 4f7409406a51a55cd88483f21ed898c234d60f18
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  RxSwiftExt: 4564187392cc53823ef241fa4a11647861567026
+  SDWebImage: fb387001955223213dde14bc08c8b73f371f8d8f
+  Then: 0157115e883545c77967b452fe74a1d25fb796e1
+  URITemplate: 58e0d47f967006c5d59888af5356c4a8ed3b197d
+  XCDYouTubeKit: 207fa50f3648fc0fd1558b2496c74c3b34af982c
+
+PODFILE CHECKSUM: 2eb6d77492795a98c3a92b37aeee17e21b357142
+
+COCOAPODS: 1.7.4

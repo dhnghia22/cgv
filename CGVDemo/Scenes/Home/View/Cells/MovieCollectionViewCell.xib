@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina5_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="MovieCollectionViewCell" customModule="CGVDemo" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="554"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="414" height="554"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="t48-Yx-rLR" customClass="FSPagerView" customModule="FSPagerView">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="372.66666666666669"/>
+                        <color key="backgroundColor" red="0.11371327191591263" green="0.11373237520456314" blue="0.11370674520730972" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="t48-Yx-rLR" secondAttribute="height" multiplier="1:0.9" id="meA-8d-p2b"/>
+                        </constraints>
+                    </view>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ni8-VY-vB9">
+                        <rect key="frame" x="0.0" y="372.66666666666669" width="414" height="45"/>
+                        <subviews>
+                            <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9YR-jc-85i">
+                                <rect key="frame" x="326" y="7.3333333333333144" width="80" height="30"/>
+                                <color key="backgroundColor" red="0.68207770586013794" green="0.17137810587882996" blue="0.19593814015388489" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="80" id="55f-8S-t4m"/>
+                                    <constraint firstAttribute="height" constant="30" id="wd6-2q-mw6"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="12"/>
+                                <state key="normal" title="Book Now">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="15"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yLL-tU-sRa">
+                                <rect key="frame" x="8" y="4" width="0.0" height="0.0"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="16"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rrA-mo-tfW">
+                                <rect key="frame" x="8" y="4" width="0.0" height="0.0"/>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="12"/>
+                                <color key="textColor" red="0.51292186975479126" green="0.45145571231842041" blue="0.39060667157173157" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ReU-3T-B6R">
+                                <rect key="frame" x="12" y="-8" width="24" height="24"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="24" id="Abt-we-QsN"/>
+                                    <constraint firstAttribute="width" constant="24" id="zIf-6x-ndK"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.125477135181427" green="0.12549754977226257" blue="0.12547016143798828" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="45" id="2Pv-aj-l3g"/>
+                            <constraint firstItem="rrA-mo-tfW" firstAttribute="leading" secondItem="yLL-tU-sRa" secondAttribute="leading" id="6qB-I1-Q0B"/>
+                            <constraint firstItem="yLL-tU-sRa" firstAttribute="top" secondItem="ni8-VY-vB9" secondAttribute="top" constant="4" id="A8m-cD-K1e"/>
+                            <constraint firstItem="ReU-3T-B6R" firstAttribute="leading" secondItem="yLL-tU-sRa" secondAttribute="trailing" constant="4" id="Dob-Wt-mVA"/>
+                            <constraint firstItem="yLL-tU-sRa" firstAttribute="leading" secondItem="ni8-VY-vB9" secondAttribute="leading" constant="8" id="SCs-1a-Zrb"/>
+                            <constraint firstItem="rrA-mo-tfW" firstAttribute="top" secondItem="yLL-tU-sRa" secondAttribute="bottom" id="X6Q-V4-5KS"/>
+                            <constraint firstItem="9YR-jc-85i" firstAttribute="centerY" secondItem="ni8-VY-vB9" secondAttribute="centerY" id="cG6-vQ-jCr"/>
+                            <constraint firstItem="9YR-jc-85i" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="ReU-3T-B6R" secondAttribute="trailing" constant="8" id="mPf-vY-DSa"/>
+                            <constraint firstItem="ReU-3T-B6R" firstAttribute="centerY" secondItem="yLL-tU-sRa" secondAttribute="centerY" id="ofd-uI-8PA"/>
+                            <constraint firstAttribute="trailing" secondItem="9YR-jc-85i" secondAttribute="trailing" constant="8" id="qeb-2Q-Gqg"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="t48-Yx-rLR" secondAttribute="trailing" id="0dd-Fd-uSa"/>
+                <constraint firstItem="t48-Yx-rLR" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="BxP-fr-rB9"/>
+                <constraint firstItem="t48-Yx-rLR" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="I4H-Ac-eo3"/>
+                <constraint firstAttribute="trailing" secondItem="ni8-VY-vB9" secondAttribute="trailing" id="e1U-jq-AvT"/>
+                <constraint firstItem="ni8-VY-vB9" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="gMS-xd-gbp"/>
+                <constraint firstItem="ni8-VY-vB9" firstAttribute="top" secondItem="t48-Yx-rLR" secondAttribute="bottom" id="rbJ-IA-a7W"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="291" height="554"/>
+            <connections>
+                <outlet property="bookNowButton" destination="9YR-jc-85i" id="53e-HY-ITh"/>
+                <outlet property="nameMovieLabel" destination="yLL-tU-sRa" id="hxn-as-Mst"/>
+                <outlet property="pagerView" destination="t48-Yx-rLR" id="aKQ-zE-pEn"/>
+                <outlet property="ratingImageView" destination="ReU-3T-B6R" id="dfh-TH-rLN"/>
+                <outlet property="timeMovieLabel" destination="rrA-mo-tfW" id="NGb-Qk-d2e"/>
+                <outlet property="widthButtonConstraint" destination="55f-8S-t4m" id="A50-7B-2Sq"/>
+            </connections>
+            <point key="canvasLocation" x="-37.681159420289859" y="192.39130434782609"/>
+        </collectionViewCell>
+    </objects>
+</document>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="184" id="KGk-i7-Jjw" customClass="BlogTableViewCell" customModule="CGVDemo" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="184"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="183.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="D7n-MM-Z98">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="30"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="What's Hot" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AMH-Hs-AjQ">
+                                <rect key="frame" x="8" y="4.5" width="89" height="21"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="73b-YQ-dyl">
+                                <rect key="frame" x="262" y="3" width="50" height="24"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="24" id="BFj-jg-heB"/>
+                                    <constraint firstAttribute="width" constant="50" id="TuK-aP-gc5"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="14"/>
+                                <state key="normal" title="All">
+                                    <color key="titleColor" red="0.28627450980000002" green="0.23529411759999999" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="12"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                        <real key="value" value="1"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                        <color key="value" red="0.28627450980000002" green="0.23529411759999999" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="73b-YQ-dyl" secondAttribute="trailing" constant="8" id="0sX-ge-bjc"/>
+                            <constraint firstItem="AMH-Hs-AjQ" firstAttribute="centerY" secondItem="D7n-MM-Z98" secondAttribute="centerY" id="4fS-Pm-0a4"/>
+                            <constraint firstItem="73b-YQ-dyl" firstAttribute="centerY" secondItem="D7n-MM-Z98" secondAttribute="centerY" id="hBA-WH-VN3"/>
+                            <constraint firstAttribute="height" priority="998" constant="30" id="izc-1Q-qs2"/>
+                            <constraint firstItem="AMH-Hs-AjQ" firstAttribute="leading" secondItem="D7n-MM-Z98" secondAttribute="leading" constant="8" id="n3k-MX-RvD"/>
+                        </constraints>
+                    </view>
+                    <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="tTf-db-rCQ">
+                        <rect key="frame" x="0.0" y="30" width="320" height="153.5"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" priority="997" constant="150" id="kFm-k7-hol"/>
+                        </constraints>
+                        <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="NPp-Gy-xhj">
+                            <size key="itemSize" width="50" height="50"/>
+                            <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                            <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                            <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                        </collectionViewFlowLayout>
+                    </collectionView>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="tTf-db-rCQ" secondAttribute="trailing" id="0aL-gR-lKn"/>
+                    <constraint firstItem="tTf-db-rCQ" firstAttribute="top" secondItem="D7n-MM-Z98" secondAttribute="bottom" id="Gb6-fK-Rvr"/>
+                    <constraint firstAttribute="trailing" secondItem="D7n-MM-Z98" secondAttribute="trailing" id="L0W-D2-k7V"/>
+                    <constraint firstItem="D7n-MM-Z98" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="Pw0-CZ-5ch"/>
+                    <constraint firstItem="D7n-MM-Z98" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="jzb-Ui-yfw"/>
+                    <constraint firstItem="tTf-db-rCQ" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="ma1-W5-xUl"/>
+                    <constraint firstAttribute="bottom" secondItem="tTf-db-rCQ" secondAttribute="bottom" id="u5f-br-jYW"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="collectionView" destination="tTf-db-rCQ" id="81F-2O-HHA"/>
+            </connections>
+            <point key="canvasLocation" x="137.68115942028987" y="152.00892857142856"/>
+        </tableViewCell>
+    </objects>
+</document>

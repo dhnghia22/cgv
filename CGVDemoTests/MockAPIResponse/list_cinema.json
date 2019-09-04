@@ -1,0 +1,1879 @@
+{
+    "data": [
+        {
+            "name": "Hồ Chí Minh",
+            "cinemas": [
+                {
+                    "id": "008",
+                    "code": "008",
+                    "name": "CGV Crescent Mall",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.729070",
+                    "longitude": "106.718948",
+                    "address": "L5, Crescent Mall Nguyen Van Linh Blvd, Phu My Hung District 7 Ho Chi Minh city",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/008/tmp_2_4.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/008/tmp_2_86707b3eb2b55deb04a4.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/008/tmp_2_2.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/008/tmp_2_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/008/tmp_2_5.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "l'amour",
+                            "id": 1,
+                            "code": "lamour",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/lamour_small_v2.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/lamour_main.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "021",
+                    "code": "021",
+                    "name": "CGV Thao Dien Pearl",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.801776",
+                    "longitude": "106.732803",
+                    "address": "Level 2, Thao Dien Mall, 12 Quoc Huong street, Thao Dien Ward, District 2, Ho Chi Minh City",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/021/tmp_2_thao-dien-1-large_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/021/tmp_2_thaodien-1_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/021/tmp_2_thaodien-2_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/021/tmp_2_thao-dien-2-large_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/021/tmp_2_thaodien-3_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/021/tmp_2_thao-dien-3-large_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/021/tmp_2_thaodien-4_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/021/tmp_2_thao-dien-4-large_1.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "022",
+                    "code": "022",
+                    "name": "CGV Liberty Citypoint",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.774573",
+                    "longitude": "106.700684",
+                    "address": "Mezzanine and 1st Floor, Liberty Central Saigon Citypoint Hotel, 59 Pasteur Street, District 1, Ho Chi Minh city",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/022/tmp_2_lb-2-large_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/022/tmp_2_lb-3-large_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/022/tmp_2_lb-1-large_1.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        },
+                        {
+                            "title": "Gold Class",
+                            "id": 2,
+                            "code": "gold-class",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_main_v2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "023",
+                    "code": "023",
+                    "name": "CGV Vincom Thu Duc",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.850593",
+                    "longitude": "106.765488",
+                    "address": "Level 5, Vincom Thu Duc, 216 Vo Van Ngan, Binh Tho Ward, Thu Duc District",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/023/tmp_2_thu-duc-3-large_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/023/tmp_2_thu-duc-1-large_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/023/tmp_2_thu-duc-2-large_1.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "024",
+                    "code": "024",
+                    "name": "CGV Vivo City",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.730201",
+                    "longitude": "106.703836",
+                    "address": "Level 5, SC VivoCity – 1058 Nguyen Van Linh, District 7",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/024/tmp_2_vivo-1_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/024/tmp_2_vivo-2_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/024/tmp_2_vivo-3_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/024/tmp_2_vivo-4_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/024/tmp_2_vivo-5_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/024/tmp_2_vivo-6_1.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        },
+                        {
+                            "title": "4DX",
+                            "id": 2,
+                            "code": "4dx",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/4dx_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/4dx_main_v2.png"
+                        },
+                        {
+                            "title": "IMAX",
+                            "id": 3,
+                            "code": "imax",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/imax_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/imax_main_v2.png"
+                        },
+                        {
+                            "title": "Gold Class",
+                            "id": 4,
+                            "code": "gold-class",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_main_v2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "030",
+                    "code": "030",
+                    "name": "CGV Pearl Plaza",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.799865",
+                    "longitude": "106.718460",
+                    "address": "Level 5, Pearl Plaza, 561A Dien Bien Phu Street, Ward 25, Binh Thanh Dist., HCM ",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/030/tmp_2_ssg-980-500_1.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "035",
+                    "code": "035",
+                    "name": "CGV Vincom Dong Khoi",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.777917",
+                    "longitude": "106.702164",
+                    "address": "Level 3,Vincom Center Dong Khoi, 72 Le Thanh Ton & 45A Ly Tu Trong, 1 District, Ho Chi Minh CIty",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/035/tmp_2_vdk-2_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/035/tmp_2_vdk-1_1.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Gold Class",
+                            "id": 1,
+                            "code": "gold-class",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_main_v2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "049",
+                    "code": "049",
+                    "name": "CGV Parkson Dong Khoi",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.7777280",
+                    "longitude": "106.702208",
+                    "address": "Level 5, Vincom Parkson Dong Khoi, 35 bis - 45 Le Thanh Ton Street, Ben Nghe ward, District 1, Ho Chi Minh city",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/049/tmp_2_pdk-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/049/tmp_2_pdk-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/049/tmp_2_pdk-1.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "l'amour",
+                            "id": 1,
+                            "code": "lamour",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/lamour_small_v2.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/lamour_main.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "059",
+                    "code": "059",
+                    "name": "CGV IMC Tran Quang Khai",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.792495",
+                    "longitude": "106.693914",
+                    "address": "Level 2 & 3, No.62 Tran Quang Khai Street, Tan Dinh Ward , District 1, ",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/059/tmp_2_imc-2.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/059/tmp_2_imc-1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/059/tmp_2_imc-3.png"
+                    ],
+                    "specials": []
+                },
+                {
+                    "id": "071",
+                    "code": "071",
+                    "name": "CGV Vincom Center Landmark 81",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.795896",
+                    "longitude": "106.722455",
+                    "address": "B1, Vincom Center Landmark 81, 772 Dien Bien Phu Street, Ward 22, Binh Thanh District, HCMC",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/071/tmp_2_cgv-landmark-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/071/tmp_2_cgv-landmark-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/071/tmp_2_cgv-landmark-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/071/tmp_2_cgv-landmark-4.png",
+                        "https://www.cgv.vn/media/site/cache/app/071/tmp_2_cgv-landmark-5.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Gold Class",
+                            "id": 1,
+                            "code": "gold-class",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_main_v2.png"
+                        },
+                        {
+                            "title": "IMAX",
+                            "id": 2,
+                            "code": "imax",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/imax_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/imax_main_v2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "079",
+                    "code": "079",
+                    "name": "CGV Giga Mall Thu Duc",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.828581",
+                    "longitude": "106.722314",
+                    "address": "Level 6, Gigamall, No. 240-242 Pham Van Dong Street, Hiep Binh Chanh Ward, Thu Duc District, HCMC",
+                    "is_gerp": true,
+                    "images": [],
+                    "specials": []
+                },
+                {
+                    "id": "004",
+                    "code": "004",
+                    "name": "CGV Hung Vuong Plaza",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.755784",
+                    "longitude": "106.663200",
+                    "address": "Level 7, Hung Vuong Plaza, 126 Hung Vuong Street, District 5, Ho Chi Minh City",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/004/tmp_2_img_2893a_2_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/004/tmp_2_img_2915a_2_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/004/tmp_2_img_0027_2a_2_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/004/tmp_2_img_9935_2a_2_1.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "ScreenX",
+                            "id": 1,
+                            "code": "screenx",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/screenx_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/screenx_main.png"
+                        },
+                        {
+                            "title": "Gold Class",
+                            "id": 2,
+                            "code": "gold-class",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_main_v2.png"
+                        },
+                        {
+                            "title": "Sweetbox",
+                            "id": 3,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        },
+                        {
+                            "title": "Dolby Atmos",
+                            "id": 4,
+                            "code": "dolby atmos",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/dolby_atmos_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/dolby_atmos_main_v2.png"
+                        },
+                        {
+                            "title": "4DX",
+                            "id": 5,
+                            "code": "4dx",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/4dx_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/4dx_main_v2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "006",
+                    "code": "006",
+                    "name": "CGV CT Plaza",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.813320",
+                    "longitude": "106.665812",
+                    "address": "Level 10, CT Plaza, 60A Truong Son, Ward 2 Tan Binh Dist, Ho Chi Minh City",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/006/tmp_2_ct-plaza-a_2_1.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "010",
+                    "code": "010",
+                    "name": "CGV Pandora City",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.806450",
+                    "longitude": "106.634552",
+                    "address": "Level 3, Pandora City 1/1 Truong Chinh street Tan Phu District Ho Chi Minh City",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/010/tmp_2__mg_4868_-_copy_2a_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/010/tmp_2__mg_4868_-_copy_2_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/010/tmp_2__mg_4806_-_copy_2_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/010/tmp_2__mg_4806_-_copy_2a_1.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "012",
+                    "code": "012",
+                    "name": "CGV Aeon Tan Phu",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.801702",
+                    "longitude": "106.617973",
+                    "address": "Level 3, Aeon Mall 30 Bo Bao Tan Thang, Son Ky Ward Tan Phu District Ho Chi Minh City",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/012/tmp_2_img_1680a_2_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/012/tmp_2_img_1690a_2_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/012/tmp_2_img_1417a_2_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/012/tmp_2_img_1832a_2_1.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "031",
+                    "code": "031",
+                    "name": "CGV Vincom Go Vap",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.826833",
+                    "longitude": "106.689079",
+                    "address": "Level 5 Vincom Plaza Gò Vấp, 12 Phan Van Tri str, Ward 7, Gò Vấp District, HCM City",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/031/tmp_2_cgv-mgv-4_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/031/tmp_2_cgv-mgv-3_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/031/tmp_2_cgv-mgv-2_1_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/031/tmp_2_cgv-mgv-1_1.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "033",
+                    "code": "033",
+                    "name": "CGV Hoang Van Thu",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.799018",
+                    "longitude": "106.659668",
+                    "address": "Level 1 and 2, Gala Center, 415 Hoang Van Thu, Ward 2, Tan Binh District, Ho Chi Minh City",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/033/tmp_2_hvt-1_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/033/tmp_2_hvt-4_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/033/tmp_2_hvt-3_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/033/tmp_2_hvt-5_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/033/tmp_2_hvt-2_1.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Gold Class",
+                            "id": 1,
+                            "code": "gold-class",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_main_v2.png"
+                        },
+                        {
+                            "title": "Sweetbox",
+                            "id": 2,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        },
+                        {
+                            "title": "l'amour",
+                            "id": 3,
+                            "code": "lamour",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/lamour_small_v2.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/lamour_main.png"
+                        },
+                        {
+                            "title": "4DX",
+                            "id": 4,
+                            "code": "4dx",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/4dx_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/4dx_main_v2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "034",
+                    "code": "034",
+                    "name": "CGV Aeon Binh Tan",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.746188",
+                    "longitude": "106.611420",
+                    "address": "Level 3, Aeon Mall Binh Tan, No.1, Street 17A, Quarter 11, Binh Tri Dong B Ward, Binh Tan District , HCMC",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/034/tmp_2_abt-2_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/034/tmp_2_abt-1_1.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        },
+                        {
+                            "title": "starium",
+                            "id": 2,
+                            "code": "starium",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/starium_small.jpg",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/starium_main.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "038",
+                    "code": "038",
+                    "name": "CGV Saigonres Nguyen Xi",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.816261",
+                    "longitude": "106.707092",
+                    "address": "Level 4 & 5, Saigonres Plaza, 79/81 Nguyen Xi Street, Ward 26, Binh Thanh District",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/038/tmp_2_nguyen-xi-1_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/038/tmp_2_nguyen-xi-2_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/038/tmp_2_nguyen-xi-3_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/038/tmp_2_nguyen-xi-4_1.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "057",
+                    "code": "057",
+                    "name": "CGV Su Van Hanh",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.770459",
+                    "longitude": "106.670389",
+                    "address": "Level 6, Van Hanh Mall, No.11 Su Van Hanh Street, Ward 12, District 10",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/057/tmp_2_vhm-1.png"
+                    ],
+                    "specials": []
+                },
+                {
+                    "id": "073",
+                    "code": "073",
+                    "name": "CGV Satra Cu Chi",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.984196",
+                    "longitude": "106.579430",
+                    "address": "                      Level 3, Satra Cu Chi Mall, No.1239, Provincial road No.8, Thanh An Hamlet, Trung An Commune, Cu Chi, HCMC",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/073/tmp_2_cgv-satra-cu-chi-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/073/tmp_2_cgv-satra-cu-chi-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/073/tmp_2_cgv-satra-cu-chi.png",
+                        "https://www.cgv.vn/media/site/cache/app/073/tmp_2_cgv-satra-cu-chi-4.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Hà Nội",
+            "cinemas": [
+                {
+                    "id": "018",
+                    "code": "018",
+                    "name": "CGV Ho Guom Plaza",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "20.979177",
+                    "longitude": "105.785980",
+                    "address": "Level 3, Ho Guom Center Plaza, 102 Tran Phu, Mo Lao Ward, Ha Dong District, Hanoi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/018/tmp_2_klg_4099.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/018/tmp_2_klg_4105.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/018/tmp_2_klg_4112.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/018/tmp_2_klg_4164.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/018/tmp_2_klg_4186.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "ArtHouse",
+                            "id": 1,
+                            "code": "arthouse",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/arthouse_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/arthouse_main_v2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "028",
+                    "code": "028",
+                    "name": "CGV Vincom Nguyen Chi Thanh",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.023582",
+                    "longitude": "105.809113",
+                    "address": "Level 6, Vincom Center Nguyễn Chí Thanh, 54A Nguyễn Chí Thanh,  Lãng Thượng Ward, Đống Đa ",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/028/tmp_2_cgv_tra_vinh_v3_170304_16.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/028/tmp_2_cgv_tra_vinh_v2_170304_16.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/028/tmp_2_cgv_tra_vinh_v1_170304_16.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        },
+                        {
+                            "title": "Gold Class",
+                            "id": 2,
+                            "code": "gold-class",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_main_v2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "032",
+                    "code": "032",
+                    "name": "CGV Indochina Plaza Ha Noi",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.036337",
+                    "longitude": "105.782455",
+                    "address": "Level 4, Indochina Plaza Ha Noi, 241 Xuan Thuy Str., Cau Giay Dist., Ha Noi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/032/tmp_2_dsc_0883.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/032/tmp_2_dsc_0868.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/032/tmp_2_dsc_0880.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/032/tmp_2_dsc_0885.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/032/tmp_2_dsc_0905.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        },
+                        {
+                            "title": "Gold Class",
+                            "id": 2,
+                            "code": "gold-class",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_main_v2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "037",
+                    "code": "037",
+                    "name": "CGV Rice City",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "20.963413",
+                    "longitude": "105.823013",
+                    "address": "Level 2 & 4, Toa nha Trung, RICE CITY Linh Dam, Hoang Liet Ward, Hoang Mai District, Ha Noi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/037/tmp_2_cgv_tra_vinh_v2_170304_11.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/037/tmp_2_cgv_tra_vinh_v3_170304_11.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/037/tmp_2_cgv_tra_vinh_v1_170304_11.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "046",
+                    "code": "046",
+                    "name": "CGV Ha Noi Centerpoint",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.003363",
+                    "longitude": "105.802763",
+                    "address": "Level 5, Ha Noi Centerpoint, No.85 Le Van Luong Street, Nhan Chinh Ward , Thanh Xuan Dist., Ha Noi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/046/tmp_2_hnc-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/046/tmp_2_hnc-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/046/tmp_2_hnc-2.png"
+                    ],
+                    "specials": []
+                },
+                {
+                    "id": "054",
+                    "code": "054",
+                    "name": "CGV Vincom Royal City",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.002994",
+                    "longitude": "105.815494",
+                    "address": "Level B2 – R4, Vincom Mega Mall Royal City, 72A Nguyen Trai Street, Thanh Xuan Ward, Ha Noi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/054/tmp_2__lhh2535.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/054/tmp_2__lhh2439.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Gold Class",
+                            "id": 1,
+                            "code": "gold-class",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_main_v2.png"
+                        },
+                        {
+                            "title": "l'amour",
+                            "id": 2,
+                            "code": "lamour",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/lamour_small_v2.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/lamour_main.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "060",
+                    "code": "060",
+                    "name": "CGV Machinco",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "20.983379",
+                    "longitude": "105.7893273",
+                    "address": "Level 7, Machinco Building, No.10 Tran Phu Street, Ha Dong district, Ha Noi ",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/060/tmp_2_machinco_3.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/060/tmp_2_machinco_2.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/060/tmp_2_machinco_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/060/tmp_2_machinco_4.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/060/tmp_2_machinco_5.jpg"
+                    ],
+                    "specials": []
+                },
+                {
+                    "id": "063",
+                    "code": "063",
+                    "name": "CGV Sun Grand Thuy Khue",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.041692",
+                    "longitude": "105.826178",
+                    "address": "68B Thuy Khue, Tay Ho, Hanoi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/063/tmp_2_cgv-sun-grand-thuy-khue-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/063/tmp_2_cgv-sun-grand-thuy-khue-4.png",
+                        "https://www.cgv.vn/media/site/cache/app/063/tmp_2_cgv-sun-grand-thuy-khue-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/063/tmp_2_cgv-sun-grand-thuy-khue-5.png"
+                    ],
+                    "specials": []
+                },
+                {
+                    "id": "070",
+                    "code": "070",
+                    "name": "CGV Vincom Metropolis Lieu Giai",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.031447",
+                    "longitude": "105.814010",
+                    "address": "29 Lieu Giai, Ba Dinh District, Hanoi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/070/tmp_2_cgv-vincom-metropolis-lieugiai-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/070/tmp_2_cgv-vincom-metropolis-lieugiai-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/070/tmp_2_cgv-vincom-metropolis-lieugiai-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/070/tmp_2_cgv-vincom-metropolis-lieugiai-4.png"
+                    ],
+                    "specials": []
+                },
+                {
+                    "id": "075",
+                    "code": "075",
+                    "name": "CGV Vincom Bac Tu Liem",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.053340",
+                    "longitude": "105.780450",
+                    "address": "21B5 Building, No.234 Pham Van Dong, Bac Tu Liem, Co Nhue, Tu Liem, Hanoi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/075/tmp_2_cgv-vincom-bac-tu-liem-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/075/tmp_2_cgv-vincom-bac-tu-liem.png",
+                        "https://www.cgv.vn/media/site/cache/app/075/tmp_2_cgv-vincom-bac-tu-liem-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/075/tmp_2_cgv-vincom-bac-tu-liem-5.png",
+                        "https://www.cgv.vn/media/site/cache/app/075/tmp_2_cgv-vincom-bac-tu-liem-4.png"
+                    ],
+                    "specials": []
+                },
+                {
+                    "id": "082",
+                    "code": "082",
+                    "name": "CGV Vincom Sky Lake",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.028971",
+                    "longitude": "105.779476",
+                    "address": "Level 3–  Vincom Plaza Skylake, Pham Hung Street, Ward My Dinh 1, Nam Tu Liem District, Hanoi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/082/tmp_2_cgv-vincom-sky-lake-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/082/tmp_2_cgv-vincom-sky-lake-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/082/tmp_2_cgv-vincom-sky-lake-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/082/tmp_2_cgv-vincom-sky-lake-4.png",
+                        "https://www.cgv.vn/media/site/cache/app/082/tmp_2_cgv-vincom-sky-lake-5.png",
+                        "https://www.cgv.vn/media/site/cache/app/082/tmp_2_cgv-vincom-sky-lake-6.png"
+                    ],
+                    "specials": []
+                },
+                {
+                    "id": "083",
+                    "code": "083",
+                    "name": "CGV Vincom Tran Duy Hung",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.016357",
+                    "longitude": "105.805482",
+                    "address": "Level 5 – Vincom Center Tran Duy Hung, Tran Duy Hung Street, Trung Hoa Ward, Cau Giay District, Ha Noi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/083/tmp_2_cgv-vincom-tran-duy-hung-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/083/tmp_2_cgv-vincom-tran-duy-hung-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/083/tmp_2_cgv-vincom-tran-duy-hung-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/083/tmp_2_cgv-vincom-tran-duy-hung-4.png",
+                        "https://www.cgv.vn/media/site/cache/app/083/tmp_2_cgv-vincom-tran-duy-hung-5.png"
+                    ],
+                    "specials": []
+                },
+                {
+                    "id": "001",
+                    "code": "001",
+                    "name": "CGV Vincom Center Ba Trieu",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.011444",
+                    "longitude": "105.849434",
+                    "address": "Level 6 VinCom Center Ha Noi 191 Ba Trieu Street Hai Ba Trung District Hanoi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/001/tmp_2_bth_3355_2.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/001/tmp_2_bth_3314.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/001/tmp_2_cgv_tra_vinh_v1_170304_15.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/001/tmp_2_cgv_tra_vinh_v2_170304_15.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/001/tmp_2_cgv_tra_vinh_v3_170304_15.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        },
+                        {
+                            "title": "4DX",
+                            "id": 2,
+                            "code": "4dx",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/4dx_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/4dx_main_v2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "009",
+                    "code": "009",
+                    "name": "CGV Mipec Tower",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.005665",
+                    "longitude": "105.823654",
+                    "address": "Level 5, MIPEC Tower 229 Tay Son Dong Da Dist, Ha Noi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/009/tmp_2_bth_3525.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/009/tmp_2_bth_3461_3.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Dolby Atmos",
+                            "id": 1,
+                            "code": "dolby atmos",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/dolby_atmos_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/dolby_atmos_main_v2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "027",
+                    "code": "027",
+                    "name": "CGV Aeon Long Bien",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.026997",
+                    "longitude": "105.898460",
+                    "address": "Level 4, AEON Mall Long Bien, 27 Co Linh street, Long Bien district, Ha Noi.",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/027/tmp_2_fasade_layer-1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/027/tmp_2_popcorn_pactory_layer-1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/027/tmp_2_ticket_box_layer-1.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "ScreenX",
+                            "id": 1,
+                            "code": "screenx",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/screenx_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/screenx_main.png"
+                        },
+                        {
+                            "title": "Sweetbox",
+                            "id": 2,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "041",
+                    "code": "041",
+                    "name": "CGV Artemis Ha Noi",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "20.999401",
+                    "longitude": "105.827148",
+                    "address": "Level 6, The Artemis Tower, Number 3, Le Trong Tan street, Khuong Mai ward, Thanh Xuan dictrist, Ha Noi ",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/041/tmp_2_cgv_tra_vinh_v2_170304_10.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/041/tmp_2_cgv_tra_vinh_v1_170304_10.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/041/tmp_2_cgv_tra_vinh_v3_170304_10.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "048",
+                    "code": "048",
+                    "name": "CGV Trang Tien Plaza",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.024541",
+                    "longitude": "105.853330",
+                    "address": "Trang Tien Plaza – 24 Hai Ba Trung, Hoan Kiem District Ha Noi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/048/tmp_2_cgv-trang-tien-plaza.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Gold Class",
+                            "id": 1,
+                            "code": "gold-class",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_main_v2.png"
+                        },
+                        {
+                            "title": "l'amour",
+                            "id": 2,
+                            "code": "lamour",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/lamour_small_v2.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/lamour_main.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "053",
+                    "code": "053",
+                    "name": "CGV Truong Dinh Plaza",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "20.98427",
+                    "longitude": "105.846256",
+                    "address": "Level 5, 461 Truong Dinh Street, Hoang Mai District, Ha Noi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/053/tmp_2_cgv-cinema-truong-dinh-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/053/tmp_2_cgv-cinema-truong-dinh-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/053/tmp_2_cgv-cinema-truong-dinh-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/053/tmp_2_cgv-cinema-truong-dinh-4.png"
+                    ],
+                    "specials": []
+                },
+                {
+                    "id": "055",
+                    "code": "055",
+                    "name": "CGV Vincom Times City ",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "20.994844",
+                    "longitude": "105.868496",
+                    "address": "Level B1, Vincom Mega Mall Times City, 458 Minh Khai, Hai Ba Trung ward, Ha Noi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/055/tmp_2_time-cgv-1_4.png",
+                        "https://www.cgv.vn/media/site/cache/app/055/tmp_2_time-cgv-2_4.png"
+                    ],
+                    "specials": []
+                },
+                {
+                    "id": "056",
+                    "code": "056",
+                    "name": "CGV Vincom Long Bien",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.050994",
+                    "longitude": "105.916288",
+                    "address": "5th Floor, Vincom Plaza Long Bien, Vinhomes Riverside, Phuc Loi Ward, Long Bien District, Ha Noi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/056/tmp_2_cgv-vincom-long-bien.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Gold Class",
+                            "id": 1,
+                            "code": "gold-class",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_main_v2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "064",
+                    "code": "064",
+                    "name": "CGV Sun Grand Luong Yen",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.012121",
+                    "longitude": "105.862744",
+                    "address": "No.3 Luong Yen, Hai Ba Trung, Hanoi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/064/tmp_2_cgv-sun-grand-luongyen-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/064/tmp_2_cgv-sun-grand-luongyen-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/064/tmp_2_cgv-sun-grand-luongyen-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/064/tmp_2_cgv-sun-grand-luongyen-4.png",
+                        "https://www.cgv.vn/media/site/cache/app/064/tmp_2_cgv-sun-grand-luongyen-5.png"
+                    ],
+                    "specials": []
+                },
+                {
+                    "id": "080",
+                    "code": "080",
+                    "name": "CGV Xuân Diệu",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.065276",
+                    "longitude": "105.827352",
+                    "address": "Level 2, D’. Le Roi Soleil Building, No.59 Xuan Dieu, Quang An Ward, Tay Ho District, Hanoi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/080/tmp_2_cgv-dle-roi-soleil-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/080/tmp_2_cgv-dle-roi-soleil-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/080/tmp_2_cgv-dle-roi-soleil-3.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Đà Nẵng",
+            "cinemas": [
+                {
+                    "id": "005",
+                    "code": "005",
+                    "name": "CGV Vinh Trung Plaza",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "16.066572",
+                    "longitude": "108.212975",
+                    "address": "255-257 Hung Vuong Street Thanh Khe District Da Nang",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/005/tmp_2_vtp_2_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/005/tmp_2_cgv_tra_vinh_v1_170304_18.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/005/tmp_2_cgv_tra_vinh_v3_170304_18.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/005/tmp_2_cgv_tra_vinh_v2_170304_18.jpg"
+                    ],
+                    "specials": []
+                },
+                {
+                    "id": "025",
+                    "code": "025",
+                    "name": "CGV Vincom Da Nang",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "16.070311",
+                    "longitude": "108.229752",
+                    "address": "Level 4, Vincom Đà Nẵng Shopping Mall, Ngô Quyền Str., An Hải Bắc Ward, Sơn Trà Distric, Đà Nẵng City",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/025/tmp_2_vin-dn-3_8.png",
+                        "https://www.cgv.vn/media/site/cache/app/025/tmp_2_vin-dn-2_8.png",
+                        "https://www.cgv.vn/media/site/cache/app/025/tmp_2_vin-dn-1_8.png",
+                        "https://www.cgv.vn/media/site/cache/app/025/tmp_2_vin-dn-4_8.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hải Phòng",
+            "cinemas": [
+                {
+                    "id": "002",
+                    "code": "002",
+                    "name": "CGV Thuy Duong Plaza",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "20.846239",
+                    "longitude": "106.707176",
+                    "address": "Level 5, TD Plaza Le Hong Phong Street Ngo Quyen District, Hai Phong City",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/002/tmp_2_corridor_2-3.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/002/tmp_2_box_office.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/002/tmp_2_concession_counter.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/002/tmp_2_corridor_4-8.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/002/tmp_2_grand_lobby.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/002/tmp_2_hiland_area.jpg"
+                    ],
+                    "specials": []
+                },
+                {
+                    "id": "077",
+                    "code": "077",
+                    "name": "CGV Vincom Hai Phong",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "20.862944",
+                    "longitude": "106.662123",
+                    "address": " Vincom Imperia ,Hai Phong",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/077/tmp_2_cgv-vincom-haiphong-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/077/tmp_2_cgv-vincom-haiphong-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/077/tmp_2_cgv-vincom-haiphong-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/077/tmp_2_cgv-vincom-haiphong-4.png",
+                        "https://www.cgv.vn/media/site/cache/app/077/tmp_2_cgv-vincom-haiphong-5.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Quảng Ninh",
+            "cinemas": [
+                {
+                    "id": "011",
+                    "code": "011",
+                    "name": "CGV Marine Plaza",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "20.955322",
+                    "longitude": "107.012787",
+                    "address": "Marine Plaza Hung Thang Urban Area Hung Thang Ward Ha Long City, Quang Ninh Province",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/011/tmp_2_dsc09009.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/011/tmp_2_dsc09016.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/011/tmp_2_dsc08969.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/011/tmp_2_dsc09041.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/011/tmp_2_dsc09057.jpg"
+                    ],
+                    "specials": []
+                },
+                {
+                    "id": "020",
+                    "code": "020",
+                    "name": "CGV Vincom Ha Long",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "20.950369",
+                    "longitude": "107.083801",
+                    "address": "Level 4, Vincom Ha Long Center, Cot Dong Ho Zone, Bach Dang Ward, Ha Long City.",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/020/tmp_2_cgv_tra_vinh_v2_170304_7.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/020/tmp_2_cgv_tra_vinh_v1_170304_7.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/020/tmp_2_cgv_tra_vinh_v3_170304_7.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/020/tmp_2_10877450_10152609257423546_268436616_n.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/020/tmp_2_10872476_10152609273538546_166226703_n.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/020/tmp_2_10841730_10152609256298546_1564428434_n.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "091",
+                    "code": "091",
+                    "name": "CGV Vincom Mong Cai",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.532936",
+                    "longitude": "107.973344",
+                    "address": "Level 3 & Level 4, Vincom Mong Cai, Tran Phu Ward, Mong Cai City, Quang Ninh, Viet Nam",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/091/tmp_2_cgv-vincom-mong-cai-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/091/tmp_2_cgv-vincom-mong-cai-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/091/tmp_2_cgv-vincom-mong-cai-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/091/tmp_2_cgv-vincom-mong-cai-4.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Bà Rịa-Vũng Tàu",
+            "cinemas": [
+                {
+                    "id": "014",
+                    "code": "014",
+                    "name": "CGV Lam Son Square",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.349064",
+                    "longitude": "107.073959",
+                    "address": "Level 4, Lam Son Square 9 Le Loi",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/014/tmp_2_lounge-low-a_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/014/tmp_2_alobby_ceiling_view-low-_hinh_dai_diena_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/014/tmp_2_lobby-low-a_1.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "065",
+                    "code": "065",
+                    "name": "CGV Lapen Center Vung Tau",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.369890",
+                    "longitude": "107.085050",
+                    "address": "No. 33A, 30/4 street, Vung Tau City",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/065/tmp_2_cgv-lapen-center-vungtau-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/065/tmp_2_cgv-lapen-center-vungtau-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/065/tmp_2_cgv-lapen-center-vungtau-1.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Cần Thơ",
+            "cinemas": [
+                {
+                    "id": "013",
+                    "code": "013",
+                    "name": "CGV Sense City",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.034108",
+                    "longitude": "105.785973",
+                    "address": "Level 3, Sense City 1 Hoa Binh Avenue Ninh Kieu District Can Tho City",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/013/tmp_2_1_2_.png",
+                        "https://www.cgv.vn/media/site/cache/app/013/tmp_2_1_1_.png",
+                        "https://www.cgv.vn/media/site/cache/app/013/tmp_2_1_3_.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "029",
+                    "code": "029",
+                    "name": "CGV Vincom Hung Vuong",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.045261",
+                    "longitude": "105.779327",
+                    "address": "02 Hung Vuong street, Ninh Kieu district, Can Tho city",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/029/tmp_2_vhv-980-500_4.png"
+                    ],
+                    "specials": []
+                },
+                {
+                    "id": "036",
+                    "code": "036",
+                    "name": "CGV Vincom Xuan Khanh",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.025324",
+                    "longitude": "105.775467",
+                    "address": "Level 5, Building 209, 30/04 Street, Xuan Khanh Ward, Ninh Kieu District, Can Tho City",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/036/tmp_2_vxk-1_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/036/tmp_2_vxk-3_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/036/tmp_2_vxk-2_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/036/tmp_2_vxk-4_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/036/tmp_2_vxk-5_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/036/tmp_2_vxk-6_1.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        },
+                        {
+                            "title": "Gold Class",
+                            "id": 2,
+                            "code": "gold-class",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/gold_class_main_v2.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Đắk Lắk",
+            "cinemas": [
+                {
+                    "id": "026",
+                    "code": "026",
+                    "name": "CGV Buon Me Thuot",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "12.693512",
+                    "longitude": "108.064217",
+                    "address": "Level 5 Nguyễn Kim center, 01 Nguyễn Chí Thanh st, Buôn Ma Thuột city, Đak Lak province.",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/026/tmp_2_2._hall.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/026/tmp_2_3._hall.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/026/tmp_2_1._ttp.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/026/tmp_2_4._entry-corridor.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bình Dương",
+            "cinemas": [
+                {
+                    "id": "016",
+                    "code": "016",
+                    "name": "CGV Binh Duong Square",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.984906",
+                    "longitude": "106.667442",
+                    "address": "Level 3 | Binh Duong Square 1 Phu Loi Phu Loi Ward Thu Dau Mot City, Binh Duong",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/016/tmp_2_140401_03_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/016/tmp_2_140401_02_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/016/tmp_2_140401_01_1.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "017",
+                    "code": "017",
+                    "name": "CGV Aeon Canary",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.931771",
+                    "longitude": "106.712265",
+                    "address": "Level 2, AEON shopping mall – Binh Duong Canary, Binh Duong Boulevard, Binh Hoa ward, Thuan An Town, Binh Duong province",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/017/tmp_2_small-can-4_1_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/017/tmp_2_small-can-3_1_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/017/tmp_2_small-can-1_1_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/017/tmp_2_small-can-2_1_1.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "058",
+                    "code": "058",
+                    "name": "CGV Empire",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.974697",
+                    "longitude": "106.656631",
+                    "address": "A45/2 Ly Thuong Kiet, Chanh Nghia Ward, Thu Dau Mot City, Binh Duong Province",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/058/tmp_2_cgv-emprie-binh-duong-2_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/058/tmp_2_cgv-emprie-binh-duong-1_1.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Đồng Nai",
+            "cinemas": [
+                {
+                    "id": "003",
+                    "code": "003",
+                    "name": "CGV Coopmart Bien Hoa",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.958461",
+                    "longitude": "106.833984",
+                    "address": "Level 3, Saigon Co-Op Mart 121 Pham Van Thuan, Tan Tien Ward Bien Hoa City Dong Nai Province",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/003/tmp_2_img_0789_2a_2_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/003/tmp_2_img_0838a_2_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/003/tmp_2_img_0858_2a_2_1.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "019",
+                    "code": "019",
+                    "name": "CGV Big C Dong Nai",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.906649",
+                    "longitude": "106.850845",
+                    "address": "Dong Nai Big C Supermarket, Block 1, Long Binh Tan Dist, Bien Hoa City, Dong Nai",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/019/tmp_2_cinema-dn-2_1_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/019/tmp_2_cinema-dn-1_1_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/019/tmp_2_cinema-dn-3_1_1.png"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bình Định",
+            "cinemas": [
+                {
+                    "id": "015",
+                    "code": "015",
+                    "name": "CGV Kim Cuc Plaza",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "13.753399",
+                    "longitude": "109.207314",
+                    "address": "Level 3 | Kim Cuc Plaza (BigC Quy Nhon) Vung Chua Residence Ghenh Rang Ward Quy Nhon City, Binh Dinh Province",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/015/tmp_2_cgv_tra_vinh_v1_170304_4.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/015/tmp_2_cgv_tra_vinh_v3_170304_4.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/015/tmp_2_cgv_tra_vinh_v2_170304_4.jpg"
+                    ],
+                    "specials": [
+                        {
+                            "title": "Sweetbox",
+                            "id": 1,
+                            "code": "sweetbox",
+                            "small_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_small.png",
+                            "main_image": "https://www.cgv.vn/skin/frontend/cgv/default/images/cinema/specials/sweetbox_main_v3.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Yên Bái",
+            "cinemas": [
+                {
+                    "id": "044",
+                    "code": "044",
+                    "name": "CGV Vincom Yen Bai",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.708523",
+                    "longitude": "104.879440",
+                    "address": "Level 4 , Vincom Yen Bai Mall, Yen Hoa park Peninsula, Nguyen Thai Hoc ward, Yen Bai city",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/044/tmp_2_cgv_tra_vinh_v2_170304_3.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/044/tmp_2_cgv_tra_vinh_v1_170304_3.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/044/tmp_2_cgv_tra_vinh_v3_170304_3.jpg"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Trà Vinh",
+            "cinemas": [
+                {
+                    "id": "039",
+                    "code": "039",
+                    "name": "CGV Vincom Tra Vinh",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "9.935693",
+                    "longitude": "106.336815",
+                    "address": "Tầng 4, TTTM Vincom Plaza Trà Vinh, số 24 Đường Nguyễn Thị Minh Khai, Khóm 3, Phường 2, Thành phố Trà Vinh, Tỉnh Trà Vinh ",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/039/tmp_2_tra-vinh-3_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/039/tmp_2_tra-vinh-2_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/039/tmp_2_tra-vinh-1_1.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Vĩnh Long",
+            "cinemas": [
+                {
+                    "id": "043",
+                    "code": "043",
+                    "name": "CGV Vincom Vinh Long",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.246386",
+                    "longitude": "105.975449",
+                    "address": "Floor 4, Vincom Plaza Vinh Long, 55 Pham Thai Buong Street, Ward 4, Vinh Long city.",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/043/tmp_2_cgv_tra_vinh_v1_170304_2.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/043/tmp_2_cgv_tra_vinh_v2_170304_2.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/043/tmp_2_cgv_tra_vinh_v3_170304_2.jpg"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Kiên Giang",
+            "cinemas": [
+                {
+                    "id": "042",
+                    "code": "042",
+                    "name": "CGV Vincom Rach Gia",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.003417",
+                    "longitude": "105.080894",
+                    "address": "Level 5, Vincom Plaza Kien Giang, Block A12, Quarter 1,  Co Bac Street, Vinh Bao Ward, Rach Gia City, Kien Giang",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/042/tmp_2_cgv_tra_vinh_v1_170304_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/042/tmp_2_cgv_tra_vinh_v2_170304_1.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/042/tmp_2_cgv_tra_vinh_v3_170304_1.jpg"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Hậu Giang",
+            "cinemas": [
+                {
+                    "id": "045",
+                    "code": "045",
+                    "name": "CGV Vincom Vi Thanh",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "9.783559",
+                    "longitude": "105.469933",
+                    "address": "Level 4, Vincom Plaza Hau Giang, No.1, 3/2 Street, Ward No.5, Vi Thanh City, Hau Giang",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/045/tmp_2_cgv_tra_vinh_v3_170304.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/045/tmp_2_cgv_tra_vinh_v2_170304.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/045/tmp_2_cgv_tra_vinh_v1_170304.jpg"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Hà Tĩnh",
+            "cinemas": [
+                {
+                    "id": "047",
+                    "code": "047",
+                    "name": "CGV Vincom Ha Tinh",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "18.337337",
+                    "longitude": "105.895598",
+                    "address": "Level 3, Vincom Ha Tinh, Ha Huy Tap ward, Ha Tinh",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/047/tmp_2_ht1fix.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/047/tmp_2_ht2fix.jpg",
+                        "https://www.cgv.vn/media/site/cache/app/047/tmp_2_ht3fix.jpg"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Phú Yên",
+            "cinemas": [
+                {
+                    "id": "051",
+                    "code": "051",
+                    "name": "CGV Vincom Phu Yen",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "13.101404",
+                    "longitude": "109.308820",
+                    "address": "Level 4, Vincom Plaza Tuy Hòa – Phú Yên, North East Corner among Hung Vuong St. and Tran Phu St, Ward 7, Tuy Hoa City, Phu Yen",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/051/tmp_2_cgv-vincom-phu-yen-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/051/tmp_2_cgv-vincom-phu-yen-1.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Khánh Hòa",
+            "cinemas": [
+                {
+                    "id": "072",
+                    "code": "072",
+                    "name": "CGV Big C Nha Trang",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "12.256385",
+                    "longitude": "109.170694",
+                    "address": "                        Ground Floor, Big C Nha Trang, Block No.4, Str. 19/5, Vinh Diem Trung Urban area, Vinh Hiep, Nha Trang City, Khanh Hoa province  ",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/072/tmp_2_cgv-bigc-nha-trang-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/072/tmp_2_cgv-bigc-nha-trang-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/072/tmp_2_cgv-bigc-nha-trang-1.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Thái Nguyên",
+            "cinemas": [
+                {
+                    "id": "061",
+                    "code": "061",
+                    "name": "CGV Vincom Thai Nguyen",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.591196",
+                    "longitude": "105.826066",
+                    "address": "Level 4, Vincom Thai Nguyen – 286 Luong Ngoc Quyen Street, Quang Trung Ward, Thai Nguyen",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/061/tmp_2_cgv-vincom-thai-nguyen-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/061/tmp_2_cgv-vincom-thai-nguyen-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/061/tmp_2_cgv-vincom-thai-nguyen-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/061/tmp_2_cgv-vincom-thai-nguyen-4.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Sơn La",
+            "cinemas": [
+                {
+                    "id": "062",
+                    "code": "062",
+                    "name": "CGV Vincom Son La",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.322904",
+                    "longitude": "103.917351",
+                    "address": " Level 3, Vincom Son La – Truong Chinh Street, Quyet Thang Ward, Son La",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/062/tmp_2_cgv-vincom-lang-son-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/062/tmp_2_cgv-vincom-lang-son-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/062/tmp_2_cgv-vincom-lang-son-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/062/tmp_2_cgv-vincom-lang-son-4.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Tây Ninh",
+            "cinemas": [
+                {
+                    "id": "068",
+                    "code": "068",
+                    "name": "CGV Vincom Tay Ninh",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "11.320682",
+                    "longitude": "106.101934",
+                    "address": "No.54 Dang Ngoc Chinh, Quarter 1, Ward 3, Tay Ninh",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/068/tmp_2_cgv-vincom-tay-ninh-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/068/tmp_2_cgv-vincom-tay-ninh-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/068/tmp_2_cgv-vincom-tay-ninh-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/068/tmp_2_cgv-vincom-tay-ninh-5.png",
+                        "https://www.cgv.vn/media/site/cache/app/068/tmp_2_cgv-vincom-tay-ninh-4.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Lạng Sơn",
+            "cinemas": [
+                {
+                    "id": "067",
+                    "code": "067",
+                    "name": "CGV Vincom Lang Son",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.847949",
+                    "longitude": "106.758006",
+                    "address": "Level 3, Vincom Lang Son, Chi Lang Ward, Lang Son City",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/067/tmp_2_cgv-vincom-lang-son-3_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/067/tmp_2_cgv-vincom-lang-son-2_1.png",
+                        "https://www.cgv.vn/media/site/cache/app/067/tmp_2_cgv-vincom-lang-son-1_1.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Tiền Giang",
+            "cinemas": [
+                {
+                    "id": "074",
+                    "code": "074",
+                    "name": "CGV GO! My Tho",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "10.359166",
+                    "longitude": "106.341499",
+                    "address": "Level 3, GO! My Tho, 545 Le Van Pham Street, Ward 5, My Tho City, Tien Giang",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/074/tmp_2_cgv-go-my-tho-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/074/tmp_2_cgv-go-my-tho-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/074/tmp_2_cgv-go-my-tho-3.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Phú Thọ",
+            "cinemas": [
+                {
+                    "id": "078",
+                    "code": "078",
+                    "name": "CGV Happyland Viet Tri",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "21.320676",
+                    "longitude": "105.385006",
+                    "address": "Level 3, Happyland Viet Tri Building, 1606A Hung Vuong Blv, Gia Cam Ward, Viet Tri, Phu Tho",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/078/tmp_2_cgv-happyland-viet-tri-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/078/tmp_2_cgv-happyland-viet-tri-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/078/tmp_2_cgv-happyland-viet-tri-3.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Quảng Ngãi",
+            "cinemas": [
+                {
+                    "id": "081",
+                    "code": "081",
+                    "name": "CGV Vincom Quang Ngai",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "15.113631",
+                    "longitude": "108.810751",
+                    "address": "Nghia Chánh Nam, Quang Ngai",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/081/tmp_2_cgv-vincom-quang-ngai-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/081/tmp_2_cgv-vincom-quang-ngai-3.png",
+                        "https://www.cgv.vn/media/site/cache/app/081/tmp_2_cgv-vincom-quang-ngai-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/081/tmp_2_cgv-vincom-quang-ngai-4.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        },
+        {
+            "name": "Nghệ An",
+            "cinemas": [
+                {
+                    "id": "086",
+                    "code": "086",
+                    "name": "CGV Vinh Centre",
+                    "thumbnail": "https://www.cgv.vn/media/cinema/d/s/dsc09025a_2.jpg",
+                    "latitude": "18.672515",
+                    "longitude": "105.691100",
+                    "address": "Level 4, Hoa Sen Shopping Mall, 69 Ho Tung Mau Street, Truong Thi Ward, Vinh City, Nghe An, Viet Nam",
+                    "is_gerp": true,
+                    "images": [
+                        "https://www.cgv.vn/media/site/cache/app/086/tmp_2_cgv-vinh-center-2.png",
+                        "https://www.cgv.vn/media/site/cache/app/086/tmp_2_cgv-vinh-center-1.png",
+                        "https://www.cgv.vn/media/site/cache/app/086/tmp_2_cgv-vinh-center-3.png"
+                    ],
+                    "specials": []
+                }
+            ]
+        }
+    ]
+}
